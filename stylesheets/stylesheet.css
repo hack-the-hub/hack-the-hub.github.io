@@ -54,8 +54,14 @@ a {
       margin-left: 0; } }
 
 .page-header {
-  width: 100%;
-  height: auto;
+  color: #fff;
+  text-align: center;
+ }
+
+ #logo-container {
+   width: 100%;
+   height: auto;
+
  }
 
 @media screen and (min-width: 64em) {
